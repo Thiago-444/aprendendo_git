@@ -1,5 +1,11 @@
+*{
+    color: aliceblue;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
 body{
-    background: linear-gradient();
+    background: #000;
 }
 
 .darkTheme {
@@ -9,7 +15,7 @@ body{
 }
 
 .container {
-    background: linear-gradient(45deg, rgb(117, 117, 9), rgb(34, 34, 1));
+    background: linear-gradient(135deg, rgb(7, 77, 12), rgb(40, 116, 65), black);
     display: flex;
     flex-direction: column;
     padding: 8px;
